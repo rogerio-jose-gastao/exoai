@@ -1,0 +1,362 @@
+[
+  {
+    "index": 1,
+    "timestamp": "2025-10-05T07:27:30.291429",
+    "candidate_id": "SIM-TEST",
+    "probability": 0.987,
+    "detection_hash": "abc123",
+    "previous_hash": "GENESIS",
+    "hash": "f138defcd6f5f81920a9db89845ceab8bceb466874f29ef78be8b13849c3112c"
+  },
+  {
+    "index": 2,
+    "timestamp": "2025-10-05T07:37:45.204123",
+    "candidate_id": "SIM-1",
+    "probability": 0.9854333343977176,
+    "detection_hash": "6c7e7436f179d24b17039ce66ec2fad8c23e5b0bb3c5ac627530abdf0a7342e0",
+    "previous_hash": "f138defcd6f5f81920a9db89845ceab8bceb466874f29ef78be8b13849c3112c",
+    "hash": "f825925efeb8ba97fa0a294fa21ebf212d1f078393ce266a2d2ec6fe0048963c"
+  },
+  {
+    "index": 3,
+    "timestamp": "2025-10-05T07:37:45.240481",
+    "candidate_id": "SIM-2",
+    "probability": 0.986753791719598,
+    "detection_hash": "05e1c8007169dd20bb1d1e63b1e983f75aa5d0ffdfd8970ec24f5bdea7d8f73a",
+    "previous_hash": "f825925efeb8ba97fa0a294fa21ebf212d1f078393ce266a2d2ec6fe0048963c",
+    "hash": "132abae11231c09ec9941a13864f71bf03622c720771dea6818af030afdd9674"
+  },
+  {
+    "index": 4,
+    "timestamp": "2025-10-05T07:37:45.289321",
+    "candidate_id": "SIM-3",
+    "probability": 0.9908487015583097,
+    "detection_hash": "5add3f8c100c0d0700d1520b7542ac826df0d0a93fecdc26217148e19f0676ff",
+    "previous_hash": "132abae11231c09ec9941a13864f71bf03622c720771dea6818af030afdd9674",
+    "hash": "816c0cae2e10ae78c277433e85a8504300402d282f5b9bce955578f22011de4a"
+  },
+  {
+    "index": 5,
+    "timestamp": "2025-10-05T08:39:15.897279",
+    "candidate_id": "SIM-1",
+    "probability": 0.9514382578459608,
+    "detection_hash": "d8bc1830a2f240b91804f6a4a0178c37e60721624597bfbea413146f290ce9b7",
+    "previous_hash": "816c0cae2e10ae78c277433e85a8504300402d282f5b9bce955578f22011de4a",
+    "hash": "f4a21c946e2e5401eae18d41f2b00316784c80facf0ae0c77fd60c448caa1357"
+  },
+  {
+    "index": 6,
+    "timestamp": "2025-10-05T08:39:15.927690",
+    "candidate_id": "SIM-2",
+    "probability": 0.9901180019936506,
+    "detection_hash": "d34cfe3daf866d23708c51350d4bb5791da108aeb55bca18e2c67f71a8a99da7",
+    "previous_hash": "f4a21c946e2e5401eae18d41f2b00316784c80facf0ae0c77fd60c448caa1357",
+    "hash": "d0782413e57199126bd54bbc50b976ad4cce29fb2f4a95be329237d8e42f126a"
+  },
+  {
+    "index": 7,
+    "timestamp": "2025-10-05T08:39:15.975144",
+    "candidate_id": "SIM-3",
+    "probability": 0.9914389387108411,
+    "detection_hash": "610ffdf2b43b848aaa99e9dadcc676c176ceba69fb7f85a8da77ca0c40b71927",
+    "previous_hash": "d0782413e57199126bd54bbc50b976ad4cce29fb2f4a95be329237d8e42f126a",
+    "hash": "94f26b805ec23814b8d763d2c1ff75744d4ad3622464744144cd661343653398"
+  },
+  {
+    "index": 8,
+    "timestamp": "2025-10-05T09:28:18.742596",
+    "candidate_id": "SIM-1",
+    "probability": 0.46138957142829895,
+    "detection_hash": "10df864048e2c74cd721af6379dec28d460cd7aaa1d239fa6e231610915101a2",
+    "previous_hash": "94f26b805ec23814b8d763d2c1ff75744d4ad3622464744144cd661343653398",
+    "hash": "6cf6b6786caf725a898929e170a654430fd0f873234a83588058ce3ec9757e41"
+  },
+  {
+    "index": 9,
+    "timestamp": "2025-10-05T09:28:18.887416",
+    "candidate_id": "SIM-2",
+    "probability": 0.6049571633338928,
+    "detection_hash": "b2bb00e40c4658981a24e9627f8726c299ace497c75f78567a6ff6f18daa77a7",
+    "previous_hash": "6cf6b6786caf725a898929e170a654430fd0f873234a83588058ce3ec9757e41",
+    "hash": "c4d32a29dd61daaf3ae7b7fc7c12d2627001122f91999f51f500cffd63ca4960"
+  },
+  {
+    "index": 10,
+    "timestamp": "2025-10-05T09:28:18.981882",
+    "candidate_id": "SIM-3",
+    "probability": 0.5231285691261292,
+    "detection_hash": "53131cc33de890763232f1999da0dae9dc1bf1708d6cbabb49ed30845ae1bda8",
+    "previous_hash": "c4d32a29dd61daaf3ae7b7fc7c12d2627001122f91999f51f500cffd63ca4960",
+    "hash": "13413f3020cdd5f5108f99a47ae67d4c442b13357c051f47ac3a732aa2795383"
+  },
+  {
+    "index": 11,
+    "timestamp": "2025-10-05T09:35:47.084830",
+    "candidate_id": "SIM-1",
+    "probability": 0.4992569088935852,
+    "detection_hash": "95a11b8c01aaa696fbe1926d757617794faff3a37eab33ee71d2ba66e45992db",
+    "previous_hash": "13413f3020cdd5f5108f99a47ae67d4c442b13357c051f47ac3a732aa2795383",
+    "hash": "9fbb4d1d24dc081caf58d77184ebf838db9b99c0ed33ae9d171f7aaad3e9e9d0"
+  },
+  {
+    "index": 12,
+    "timestamp": "2025-10-05T09:35:47.254825",
+    "candidate_id": "SIM-2",
+    "probability": 0.33620408177375793,
+    "detection_hash": "c07e1e81953aeebe48b519c6cfaf999b9e53651cd026fe8236384ae16f844d99",
+    "previous_hash": "9fbb4d1d24dc081caf58d77184ebf838db9b99c0ed33ae9d171f7aaad3e9e9d0",
+    "hash": "07fce8d0c30bf20dc1209f4963550a6243f75108ee9cdd1e6201ffb8c2239c76"
+  },
+  {
+    "index": 13,
+    "timestamp": "2025-10-05T09:35:47.342985",
+    "candidate_id": "SIM-3",
+    "probability": 0.6076564788818359,
+    "detection_hash": "475bcb5872a043661f783b8bc6a7e086397833a7dfe129f0e6edb21a04600b2e",
+    "previous_hash": "07fce8d0c30bf20dc1209f4963550a6243f75108ee9cdd1e6201ffb8c2239c76",
+    "hash": "f3a92ad0de7fbbdd8b2e7c9bba34cdb5f503db0d3c479a41768dd9d04b6874a5"
+  },
+  {
+    "index": 14,
+    "timestamp": "2025-10-05T09:35:57.066520",
+    "candidate_id": "SIM-1",
+    "probability": 0.4394576847553253,
+    "detection_hash": "c7fd863738cfed4f59435dd9e2afa32f926aa2712842ac29032db39b4a7b2b28",
+    "previous_hash": "f3a92ad0de7fbbdd8b2e7c9bba34cdb5f503db0d3c479a41768dd9d04b6874a5",
+    "hash": "3763ec70b4131cbff96f549e7530cbd58ee363686fd7a3dd2212a14b9014b9d4"
+  },
+  {
+    "index": 15,
+    "timestamp": "2025-10-05T09:35:57.207140",
+    "candidate_id": "SIM-2",
+    "probability": 0.6187651753425598,
+    "detection_hash": "19f95141b569574e86a1ec8620f8224913cdbb12488454a89741f7b55a4a5c3c",
+    "previous_hash": "3763ec70b4131cbff96f549e7530cbd58ee363686fd7a3dd2212a14b9014b9d4",
+    "hash": "0bf49dacb179ac43101f65ac202142c3b79ecd79bd7f61c9b46df4db4a78e149"
+  },
+  {
+    "index": 16,
+    "timestamp": "2025-10-05T09:35:57.276514",
+    "candidate_id": "SIM-3",
+    "probability": 0.3884420692920685,
+    "detection_hash": "2b8d222ea34d14601b158afa6500ed9d6f51b4148e326bc900e6d0b69b646dc2",
+    "previous_hash": "0bf49dacb179ac43101f65ac202142c3b79ecd79bd7f61c9b46df4db4a78e149",
+    "hash": "60cfe993e6cbfd4a65dc319797e24e0a4f2da3d835bdebde73b7badad67eab79"
+  },
+  {
+    "index": 17,
+    "timestamp": "2025-10-05T09:36:03.222778",
+    "candidate_id": "SIM-1",
+    "probability": 0.5971606373786926,
+    "detection_hash": "505d19484ae88a9a670f9fd4d5c8ed00be41b5c325919ce92edc8ba66b4ab7ea",
+    "previous_hash": "60cfe993e6cbfd4a65dc319797e24e0a4f2da3d835bdebde73b7badad67eab79",
+    "hash": "b85b4994d25549b8ab5f7ea6d7ebcf048b7108b36368dd2a337ca2805372505e"
+  },
+  {
+    "index": 18,
+    "timestamp": "2025-10-05T09:36:03.317067",
+    "candidate_id": "SIM-2",
+    "probability": 0.5393876433372498,
+    "detection_hash": "7cd5775ec56954454ac0ca2e8dfacdef3f3054bc16198555b1d638f0592666be",
+    "previous_hash": "b85b4994d25549b8ab5f7ea6d7ebcf048b7108b36368dd2a337ca2805372505e",
+    "hash": "18ed9cac68f2585cf8d85f5deccf5b6afc7c344abf4be4b24c9eddd9c421015d"
+  },
+  {
+    "index": 19,
+    "timestamp": "2025-10-05T09:36:03.388691",
+    "candidate_id": "SIM-3",
+    "probability": 0.5373955965042114,
+    "detection_hash": "972dceb3d50558ec35a61def0f8f006726a57046b7c5cee6db3063946cc6c891",
+    "previous_hash": "18ed9cac68f2585cf8d85f5deccf5b6afc7c344abf4be4b24c9eddd9c421015d",
+    "hash": "8ea9cf34feec66ce72b04874b7e3c3b5c4971693067060363e54218ad1997477"
+  },
+  {
+    "index": 20,
+    "timestamp": "2025-10-05T09:41:57.174971",
+    "candidate_id": "SIM-1",
+    "probability": 0.6327224969863892,
+    "detection_hash": "d4e120893b28c0f90ae155351767fb4509ea66281ea9dad30229a842b8c59144",
+    "previous_hash": "8ea9cf34feec66ce72b04874b7e3c3b5c4971693067060363e54218ad1997477",
+    "hash": "be9c39c590027bce2d0a5ad1af7a9a2020c5e80ab92573549b204ed17cfe014f"
+  },
+  {
+    "index": 21,
+    "timestamp": "2025-10-05T09:41:57.277547",
+    "candidate_id": "SIM-2",
+    "probability": 0.5956411361694336,
+    "detection_hash": "6252d56ee67323c33a76713ec281033abe506ca36ae74758303199fea0f56631",
+    "previous_hash": "be9c39c590027bce2d0a5ad1af7a9a2020c5e80ab92573549b204ed17cfe014f",
+    "hash": "4bf01fb84f74e100c608ec92c86f7337f64f1fb5ea403c5eeb94ed07c09de4c9"
+  },
+  {
+    "index": 22,
+    "timestamp": "2025-10-05T09:41:57.390282",
+    "candidate_id": "SIM-3",
+    "probability": 0.4186403453350067,
+    "detection_hash": "f9d70e6f53c82aa45fe5513994f33da1f4006be827a2f8d340f5b6bec4fd95bc",
+    "previous_hash": "4bf01fb84f74e100c608ec92c86f7337f64f1fb5ea403c5eeb94ed07c09de4c9",
+    "hash": "79a132bf7891543a15f4dcf407c0c54ccadcb1b2464326498a63373ec070f3c2"
+  },
+  {
+    "index": 23,
+    "timestamp": "2025-10-05T10:07:06.869010",
+    "candidate_id": "SIM-1",
+    "probability": 0.0,
+    "detection_hash": "9ed4e9f0ae946314491cb232bf826f62c05b99ffa93f8a05ca0e7ed88ab349e9",
+    "previous_hash": "79a132bf7891543a15f4dcf407c0c54ccadcb1b2464326498a63373ec070f3c2",
+    "hash": "a078508807f97e6f79ca259659444ca4e1415b14e6a41821c8e98cfbc9588c7d"
+  },
+  {
+    "index": 24,
+    "timestamp": "2025-10-05T10:07:06.884943",
+    "candidate_id": "SIM-2",
+    "probability": 0.0,
+    "detection_hash": "ce63f6354a13c9d1ad98c728369a7cbd48a2eaae9de196a49c5a0ae42381c071",
+    "previous_hash": "a078508807f97e6f79ca259659444ca4e1415b14e6a41821c8e98cfbc9588c7d",
+    "hash": "5e750a93d9826ebf6e18dad2e21420bc136c5a0932b9e8db99b6c9bdbdd7a57c"
+  },
+  {
+    "index": 25,
+    "timestamp": "2025-10-05T10:07:06.902608",
+    "candidate_id": "SIM-3",
+    "probability": 0.0,
+    "detection_hash": "4de7247e79d535488444379fb14db53953a3e458a2963656278e9eeab6b9dca8",
+    "previous_hash": "5e750a93d9826ebf6e18dad2e21420bc136c5a0932b9e8db99b6c9bdbdd7a57c",
+    "hash": "b793580ed7788c8c2f359e1db39c6df92ce1825eaa1c49b31c078caaecbb3cef"
+  },
+  {
+    "index": 26,
+    "timestamp": "2025-10-05T10:14:16.723134",
+    "candidate_id": "SIM-1",
+    "probability": 0.0,
+    "detection_hash": "ddddf6d6267be134b62898c0212ade7b8b246d73cb3d0eca559dfaa0fce68405",
+    "previous_hash": "b793580ed7788c8c2f359e1db39c6df92ce1825eaa1c49b31c078caaecbb3cef",
+    "hash": "13b65cfd75a3d934c73189dbb33281c2def9ae45b16831f719a9f2385e98b4a8"
+  },
+  {
+    "index": 27,
+    "timestamp": "2025-10-05T10:14:16.766168",
+    "candidate_id": "SIM-2",
+    "probability": 0.0,
+    "detection_hash": "4e3d1abebdb7464b9348f1b68fca7f52e8cc008de2e6363a5f1009f8fa4688d2",
+    "previous_hash": "13b65cfd75a3d934c73189dbb33281c2def9ae45b16831f719a9f2385e98b4a8",
+    "hash": "71e6ad15c489ca6b30c66286238102e0dfdca6109468cd6ec26113afb80a3029"
+  },
+  {
+    "index": 28,
+    "timestamp": "2025-10-05T10:14:16.843415",
+    "candidate_id": "SIM-3",
+    "probability": 0.0,
+    "detection_hash": "eb218c0b6b79656c064ed4452825d128285026e751a4c3b5c260e8e61c9ece97",
+    "previous_hash": "71e6ad15c489ca6b30c66286238102e0dfdca6109468cd6ec26113afb80a3029",
+    "hash": "ec2833fda24ab5f54b56ad695d734aa904a23df964bb42c38a639b278593b183"
+  },
+  {
+    "index": 29,
+    "timestamp": "2025-10-05T10:15:42.635630",
+    "candidate_id": "SIM-1",
+    "probability": 0.0,
+    "detection_hash": "d30ad443338d6defee2e1402d4731cd9f9c2e60b13644279d11ce12d1649b9bf",
+    "previous_hash": "ec2833fda24ab5f54b56ad695d734aa904a23df964bb42c38a639b278593b183",
+    "hash": "9f4af8fa45ec10256ef3e7eba9f5f67f0c71d512060776c8ec1d98be08ac17ee"
+  },
+  {
+    "index": 30,
+    "timestamp": "2025-10-05T10:15:42.738393",
+    "candidate_id": "SIM-2",
+    "probability": 0.0,
+    "detection_hash": "5bfd86c13366192a57bee270f95a3942aaa80e50ec9c6c701f6bc6c1e3dae6db",
+    "previous_hash": "9f4af8fa45ec10256ef3e7eba9f5f67f0c71d512060776c8ec1d98be08ac17ee",
+    "hash": "d1dc79b1bc4523564fb214e09fbd4a7c8596aafa019b426c0669f35cbfec0997"
+  },
+  {
+    "index": 31,
+    "timestamp": "2025-10-05T10:15:42.827038",
+    "candidate_id": "SIM-3",
+    "probability": 0.0,
+    "detection_hash": "a3259d05c9d0c994931119e43f2e2d16b51fda21d2ded376724605f70b8e45be",
+    "previous_hash": "d1dc79b1bc4523564fb214e09fbd4a7c8596aafa019b426c0669f35cbfec0997",
+    "hash": "c0738668ddeadaa733dd49c75722eab6e6a554292341557f450ad39c3a7de705"
+  },
+  {
+    "index": 32,
+    "timestamp": "2025-10-05T10:16:49.422765",
+    "candidate_id": "SIM-1",
+    "probability": 0.0,
+    "detection_hash": "7f48daa1f6cbce69a2abe9b1c637d8a33437f7ae03673a28a4ee8f18fa755de0",
+    "previous_hash": "c0738668ddeadaa733dd49c75722eab6e6a554292341557f450ad39c3a7de705",
+    "hash": "a6ff1dd77ffd937b4255e7b3309d8d3aeb2feb401e7151fadc03d1c9a6cec623"
+  },
+  {
+    "index": 33,
+    "timestamp": "2025-10-05T10:16:49.510929",
+    "candidate_id": "SIM-2",
+    "probability": 0.0,
+    "detection_hash": "2521abbce19e66b5f149053641ed368bef3b9a09e14700b5f544d85515fb83b5",
+    "previous_hash": "a6ff1dd77ffd937b4255e7b3309d8d3aeb2feb401e7151fadc03d1c9a6cec623",
+    "hash": "5323a6f68751770b8851e8410565ce6c9091e58fcdd7854d7ba5bb421d5afc3d"
+  },
+  {
+    "index": 34,
+    "timestamp": "2025-10-05T10:16:49.605206",
+    "candidate_id": "SIM-3",
+    "probability": 0.0,
+    "detection_hash": "855f21bf99070e5ec307da23a04deefdc9c10b6b6d06d18ab712ff1f08ee05c8",
+    "previous_hash": "5323a6f68751770b8851e8410565ce6c9091e58fcdd7854d7ba5bb421d5afc3d",
+    "hash": "8999b4c634a5513d71e3e58d8a13c866f23f29072cd2d209e592699340f65ec2"
+  },
+  {
+    "index": 35,
+    "timestamp": "2025-10-05T10:43:13.251825",
+    "candidate_id": "SIM-1",
+    "probability": 0.0,
+    "detection_hash": "3db1f265d35168b996153c888b892b689a41e4eb4a41df8fd6645bd5ab5dc8c4",
+    "previous_hash": "8999b4c634a5513d71e3e58d8a13c866f23f29072cd2d209e592699340f65ec2",
+    "hash": "3430f88d59257840b3abd04550373b7716551d923368649d0fcf6178a4787379"
+  },
+  {
+    "index": 36,
+    "timestamp": "2025-10-05T10:43:13.296849",
+    "candidate_id": "SIM-2",
+    "probability": 0.0,
+    "detection_hash": "2edaf1de32bf10d1bd203b165c2bd56c71cb19c491cd8856610f28d281ade7c2",
+    "previous_hash": "3430f88d59257840b3abd04550373b7716551d923368649d0fcf6178a4787379",
+    "hash": "a384fff5fab5d80ee24eab6b68ab6e49120e76599a8714a9d4420dd73bd080b2"
+  },
+  {
+    "index": 37,
+    "timestamp": "2025-10-05T10:43:13.383752",
+    "candidate_id": "SIM-3",
+    "probability": 0.0,
+    "detection_hash": "4815898fadce4acae0825411d9babdc69376f356a3799560aba63edd48d21fcb",
+    "previous_hash": "a384fff5fab5d80ee24eab6b68ab6e49120e76599a8714a9d4420dd73bd080b2",
+    "hash": "a1e7285b6796ed84b621cec95196e8c059cb4fe01dad26704bcf89c8348bb3e7"
+  },
+  {
+    "index": 38,
+    "timestamp": "2025-10-05T10:56:04.157377",
+    "candidate_id": "SIM-1",
+    "probability": 0.4429952800273895,
+    "detection_hash": "9892b55e7ec8a30ccc1bec504bc32cd28a91b65b40ac746230b16fcbaa5226bd",
+    "previous_hash": "a1e7285b6796ed84b621cec95196e8c059cb4fe01dad26704bcf89c8348bb3e7",
+    "hash": "98d33b02be4a71209b0c9af77b9dbf880992e38f666b636175a382cd5871f4a8"
+  },
+  {
+    "index": 39,
+    "timestamp": "2025-10-05T10:56:04.260785",
+    "candidate_id": "SIM-2",
+    "probability": 0.443048894405365,
+    "detection_hash": "725cb2e97be7e71c0b11c48e7d5ce6107828f7ca3ca2346a6a867d6383f9d7aa",
+    "previous_hash": "98d33b02be4a71209b0c9af77b9dbf880992e38f666b636175a382cd5871f4a8",
+    "hash": "4906a3b1175a771b0ae73d083c9110ab6e0fb54bfaa10b249edbbb34896d1499"
+  },
+  {
+    "index": 40,
+    "timestamp": "2025-10-05T10:56:04.319148",
+    "candidate_id": "SIM-3",
+    "probability": 0.4427091181278229,
+    "detection_hash": "eb7d7c075572fcec904d026a7d0af085c20d01c047d09594cf47b01568040444",
+    "previous_hash": "4906a3b1175a771b0ae73d083c9110ab6e0fb54bfaa10b249edbbb34896d1499",
+    "hash": "7b60449aead1a14875674f1bfd644da6a17cb9a0eedb0ed37bdb9157dc831fbe"
+  }
+]

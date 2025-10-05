@@ -1,0 +1,12 @@
+dash
+plotly
+fastapi
+uvicorn
+numpy
+scipy
+torch
+scikit-learn
+lightkurve
+pytest
+black
+pandas

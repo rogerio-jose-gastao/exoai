@@ -1,0 +1,20 @@
+components:
+  - name: data_collector
+    input: [targets: list, limit: int]
+    output: list[dict]
+    description: Coleta curvas de luz de alvos TESS e armazena localmente.
+
+  - name: ml_detector
+    input: dict
+    output: [label: str, prob: float]
+    description: Detecta exoplanetas usando modelo Transformer não treinado (placeholder).
+
+  - name: blockchain_ledger
+    input: dict
+    output: str
+    description: Registra descobertas em um ledger simulado (hash SHA-256).
+
+  - name: agent_orchestrator
+    input: none
+    output: bool
+    description: Orquestra coleta, detecção e registro de forma autônoma.

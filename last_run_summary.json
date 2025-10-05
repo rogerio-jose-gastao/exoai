@@ -1,0 +1,47 @@
+{
+  "run_at": 1759661764.3524337,
+  "metrics": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "auc": NaN
+  },
+  "results": [
+    {
+      "target": "SIM-1",
+      "file": "F:\\Z\\exoai\\exoai\\data\\SIM-1.npz",
+      "prediction": {
+        "label": "none",
+        "prob": 0.4429952800273895,
+        "depth": 0.0002850235998630524,
+        "duration": 0.02885990560054779
+      },
+      "collected_at": "2025-10-05T10:56:04.120208",
+      "detection_hash": "9892b55e7ec8a30ccc1bec504bc32cd28a91b65b40ac746230b16fcbaa5226bd"
+    },
+    {
+      "target": "SIM-2",
+      "file": "F:\\Z\\exoai\\exoai\\data\\SIM-2.npz",
+      "prediction": {
+        "label": "none",
+        "prob": 0.443048894405365,
+        "depth": 0.00028475552797317503,
+        "duration": 0.0288609778881073
+      },
+      "collected_at": "2025-10-05T10:56:04.122265",
+      "detection_hash": "725cb2e97be7e71c0b11c48e7d5ce6107828f7ca3ca2346a6a867d6383f9d7aa"
+    },
+    {
+      "target": "SIM-3",
+      "file": "F:\\Z\\exoai\\exoai\\data\\SIM-3.npz",
+      "prediction": {
+        "label": "none",
+        "prob": 0.4427091181278229,
+        "depth": 0.00028645440936088564,
+        "duration": 0.028854182362556456
+      },
+      "collected_at": "2025-10-05T10:56:04.124483",
+      "detection_hash": "eb7d7c075572fcec904d026a7d0af085c20d01c047d09594cf47b01568040444"
+    }
+  ]
+}
